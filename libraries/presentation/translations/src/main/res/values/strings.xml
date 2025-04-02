@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Momentor</string>
+    <string name="bottomNavItem_home">Home</string>
+    <string name="bottomNavItem_photos">Photos</string>
+    <string name="bottomNavItem_profile">Profile</string>
+</resources>
